@@ -14,10 +14,10 @@
 
 | 项目 | 描述 |
 |------|------|
-| [kimi-admin-ui](https://github.com/kimi-admin/kimi-admin-ui) | 前端项目（Vue 3 + Vite + Element Plus） |
-| [kimi-admin-server](https://github.com/kimi-admin/kimi-admin-server) | 后端服务（Spring Boot + MyBatis Plus） |
-| [kimi-admin-docs](https://github.com/kimi-admin/kimi-admin-docs) | 使用 VitePress 编写的在线文档 |
-| [kimi-admin-cli](https://github.com/kimi-admin/kimi-admin-cli) | 脚手架工具（可选） |
+| [kimi-admin-ui](https://github.com/kimi-admin/kimi-admin-ui) | Kimi Admin 的前端项目，基于 Vue 3 + Vite + Element Plus 构建。 |
+| [kimi-admin-server](https://github.com/kimi-admin/kimi-admin-server) | Kimi Admin 的后端服务，采用 Spring Boot + MyBatis Plus + 权限控制系统。 |
+| [kimi-admin-docs](https://github.com/kimi-admin/kimi-admin-docs) | Kimi Admin 的官方文档站点，使用 VitePress 构建。 |
+| [kimi-admin-cli](https://github.com/kimi-admin/kimi-admin-cli) | Kimi Admin 的 CLI 工具，快速生成项目模板。 |
 
 ## 📎 官网 & 社区
 
